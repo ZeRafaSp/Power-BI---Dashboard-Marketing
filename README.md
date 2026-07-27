@@ -210,3 +210,10 @@ Durante o desenvolvimento deste projeto foram aplicados conhecimentos em:
 **José Rafael Santos Pereira**
 
 Analista de Sistemas | Power BI | SQL | Python | Flutter | Business Intelligence
+
+
+GitHub: https://github.com/ZeRafaSp/
+
+LinkedIn: https://www.linkedin.com/in/rafaelsantospereirarsp/
+
+
